@@ -26,4 +26,4 @@ The Jupyter Notebook details the following main tasks:
 
 ### Files
 
-* [crypto_clustering.ipynb](crypto_clustering.ipynb)
+* [crypto_clustering.ipynb](ClusteringCrypto/crypto_clustering.ipynb)
